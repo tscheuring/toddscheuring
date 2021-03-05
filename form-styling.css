@@ -1,0 +1,99 @@
+/* Form title */
+
+.c-forms-heading h2 {
+  font-family: 'Open Sans', sans-serif;
+  color: #1d1d21;
+  font-size: 34px;
+  line-height: 49px;
+  font-weight: 700;
+}
+
+
+/* Form title */
+
+.c-title > * {
+  font-family: 'Open Sans', sans-serif;
+  color: #1d1d21;
+  font-size: 34px;
+  line-height: 49px;
+  font-weight: 700;
+}
+
+/* All labels */
+
+.cognito .c-label label, .cognito .c-label {
+    margin-bottom: 5px;
+    font-family: 'Open Sans', sans-serif;
+    color: #1d1d21;
+    font-weight: 600;
+}
+	
+
+/* All buttons */
+
+.cognito button {
+  	padding: 16px 24px;
+    border-radius: 3px;
+    background-color: #1d1d21;
+    box-shadow: 0 4px 7px 0 rgb(0 0 0 / 20%);
+    font-family: 'Open Sans', sans-serif;
+    color: hsla(0, 0%, 100%, 0.95);
+    font-size: 16px;
+    font-weight: 600;
+}
+
+/* Submit button */
+
+#c-submit-button {
+  	padding: 16px 24px;
+    border-radius: 3px;
+    background-color: #1d1d21;
+    box-shadow: 0 4px 7px 0 rgb(0 0 0 / 20%);
+    font-family: 'Open Sans', sans-serif;
+    color: hsla(0, 0%, 100%, 0.95);
+    font-size: 16px;
+    font-weight: 600;
+}
+
+/* Help text */
+
+.c-helptext {
+  font-family: 'Open Sans', sans-serif;
+    color: #979797;
+    font-size: 14px;
+    line-height: 26px;
+}
+
+
+/* All text inputs and dropdowns */
+
+.cognito input[type=text], .cognito .c-dropdown {
+	padding-top: 12px;
+    padding-bottom: 12px;
+    border-style: solid;
+    border-color: #d6dce0;
+    background-color: #f6f8fb;
+	height: auto;
+    min-height: auto;
+    margin-bottom: 16px;
+    padding: 8px 16px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #c4c4c4;
+    border-radius: 3px;
+    font-family: 'Open Sans', sans-serif;
+    color: #1d1d21;
+    font-size: 16px;
+    line-height: 20px;
+    font-weight: 400;
+}
+
+
+/* Required fields */
+
+.c-required {
+  
+}
+
+
+	
